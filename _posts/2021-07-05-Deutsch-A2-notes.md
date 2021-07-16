@@ -603,9 +603,56 @@ oder:
 ### 其他
   - etwas (für etwas) mitbringen 具备，具有
   - jn. unterstützen 支持某人
+  - o. ä. oder ähnliches
+
+## Lektion 18 Kinder und Jugendliche
+
+### Infinitiv mit "zu"
+
+[[带zu不定式::lmn]]
+
+{:.boxit}
+  - zu后面只允许一个动词不定式（现在时中变位动词部分），动词之前的其他搭配部分（如四格宾语、介词搭配等）放置于zu之前
+  - 可分动词：zu置于可分前缀和词干之间，合在一起写
+  - 带zu不定式部分通常用逗号和前面的主句部分隔开（不定式部分只有一动词无其他搭配时无须逗号，z.B. *Kinder haben große Lust zu spielen.*
+
 
 {:.medium .serif .oblique}
-#### o.ä. d.h. z.B. 
-  - o. ä. oder ähnliches
-  - d. h. das heißt
-  - z. B. zum Beispiel
+#### Infinitiv + zu/dass-Satz
+  - 不定式组的逻辑主语和主句一致
+    - Birgit hofft, die Prüfung bestehen **zu** können.c
+  - 不定式组的逻辑主语是主句第三格，或第四格补足语  
+    - Die Eltern schlagen Birgit vor, an der Prüfung teil**zu**nehmen.
+  - 不定式组的逻辑主语以其他形式在主句中出现，或者可默认为指的针对任何人（常当不定式组充当主语时）
+    - Es ist für alle Schüler wichtig, die Prüfung **zu** bestehen.
+  - 综上，带zu不定式逻辑主语要在主句中能找到（主句主语、主句三格或四格语），或者能默认为泛指任何一个人（此时逻辑主语可在主句中不体现），反之只用dass从句
+    - Die Eltern hoffen, **dass** Birgit die Prüfung bestehen kann.
+
+{:.medium .serif .oblique}
+#### Verben, Adjektive und Nomen in Verbindung mit Infinitiv mit “zu”
+
+[[和带zu不定式搭配的动词、形容词和名词::lmn]]
+
+  - Verben 
+    - 带zu不定式充当主句动词的四格宾语或介词补足语
+      - anfangen: *Er hat (damit) angefangen, in der Firma zu arbeiten.*
+      - 类似动词：aufhören, beginnen, bitten(um), sich freuen(auf/über), raten(zu), sich gewöhnen an
+    - 充当四格宾语
+      - erlauben: *Er erlaubt mit, hier zu rauchen.*
+      - 类似动词：hoffen, verbieten, versprechen, versuchen, vorhaben, vorschlagen, vergessen, empfehlen.
+  - Adjektive 带zu不定式充当主语
+    - Es ist gut, hier zu sein.
+    - Es ist für ihn leicht, das Wort auszusprechen.
+    - **Es ist (Adjektiv), ... zu ...**
+    - **Oder**
+      -  Hier zu sein ist gut. [[无须逗号和es::rsn]]
+      -  Das Wort auszusprechen ist für ihn leicht.
+    - 类似形容词（第二分词）：gut, leicht, möglich, notwendig, schlecht,schön, schwer, üblich, wichtig, erlaubt, verboten
+  - Nomen 带zu不定式充当后置定语，修饰主句出现的名词
+    - Das Kind hat Angst, allein nach Hause zu gehen.
+    - Kinder haben große Lust zu spielen.
+    - **Jemand hat (Nomen)(,) ... zu ...**
+    - 类似名词：Angst, die Hoffnung, Lust, die Möglichkeit, die Pflicht, den Wunsch, Zeit
+
+### Briefformen 
+  See [Briefschreiben.pdf](https://mailustceducn-my.sharepoint.com/:b:/g/personal/wushunyu2401_mail_ustc_edu_cn/EcHkhK7CB3hNnct3L7HpQdEB9dENUVssad5vl-X70Q6ozA?e=CnQ2Bk)

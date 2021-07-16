@@ -284,7 +284,7 @@ status: ongoing
   - ob-Satz (bei Ja-Nein-Frage一般疑问句)
 
 {:.medium .serif .oblique}
-#### Verstellung im Satzgefüge (Haptsaty + Nebensatz)
+#### Verstellung im Satzgefüge (Hauptsatz + Nebensatz)
 
 [[主从句中动词位置::lmn]]
 
@@ -513,7 +513,7 @@ oder:
 |Der Mantel ist zu lang,|**deshalb** passt er ihr nicht.|
 
 - 区分da, weil, denn(不占位), deshalb, wegen(+G)
-- deshalb, like und,aber,oder and denn, connects two main clauses(Hauptsatz)
+- deshalb, like und,aber,oder and denn, connects two main clauses(Hauptsätz)
 
 ### Nebensatz mit "wenn/falls" (Konditionalsatz)
 
@@ -552,7 +552,7 @@ oder:
 
 ### Hauptsatz mit "trotzdem"
 
-| Hauptsatz | Hauptsatz |
+| Hauptsatz | **Hauptsatz** |
 |:-----:|:-----:|
 | Ich habe keine Zeit. | **Trotzdem habe** ich eine Verabredung mit ihr.|
 | Deutsch ist schwer.| **Trotzdem kann** Liu es gut sprechen.|

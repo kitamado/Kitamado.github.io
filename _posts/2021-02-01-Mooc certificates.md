@@ -25,6 +25,7 @@ tag: other
 
 - [COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/learn/covid-19-what-you-need-to-know) @ *Osmosis* ([certificate](https://coursera.org/share/f084c4a41272308f418478ea4d73584d))
 - [Ecology: Ecosystem Dynamics and Conservation](https://www.coursera.org/learn/ecology-conservation) @ *American Museum of Natural History & Howard Hughes Medical Institute* ([certificate](https://coursera.org/share/fb9324419ecd2a09c224c79db68f425b))
+- [Dog Emotion and Cognition](https://www.coursera.org/learn/dog-emotion-and-cognition) @ *Duke University* ([certificate](https://coursera.org/share/bc5d947c771a5b1acb2bc4daf7abdfff))
 
 ## Finished Specializations
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) @ *Google* ([certificate](https://coursera.org/share/790aba9a1e6420cccf2caf9feeea3b98))

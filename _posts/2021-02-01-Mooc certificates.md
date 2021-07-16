@@ -25,6 +25,7 @@ tag: other
 
 - [COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/learn/covid-19-what-you-need-to-know) @ *Osmosis* ([certificate](https://coursera.org/share/f084c4a41272308f418478ea4d73584d))
 - [Ecology: Ecosystem Dynamics and Conservation](https://www.coursera.org/learn/ecology-conservation) @ *American Museum of Natural History & Howard Hughes Medical Institute* ([certificate](https://coursera.org/share/fb9324419ecd2a09c224c79db68f425b))
+- [Introductory Human Physiology](https://www.coursera.org/learn/physiology) @ *Duke University* ([certificate](https://coursera.org/share/25b177af259d3525185a3914bd741df4))
 - [Dog Emotion and Cognition](https://www.coursera.org/learn/dog-emotion-and-cognition) @ *Duke University* ([certificate](https://coursera.org/share/bc5d947c771a5b1acb2bc4daf7abdfff))
 
 ## Finished Specializations
@@ -57,6 +58,7 @@ tag: other
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning) @ *Amazon Web Services* ([certificate](https://coursera.org/share/e7c872810f7931d0c040504aa7979d58))
 * [Transfer Learning for NLP with TensorFlow Hub](https://www.coursera.org/projects/transfer-learning-nlp-tensorflow-hub) @ *Coursera Project Network* ([certificate](https://coursera.org/share/133a64481420d85bf2145ec91d46930f))
 * [Machine Learning Pipelines with Azure ML Studio](https://www.coursera.org/projects/azure-machine-learning-studio-pipeline) @ *Coursera Project Network* ([certificate](https://coursera.org/share/2f41f1f62ce3f4bc78ec7fe05dbf5bef))
+* [Introduction to AWS Identity and Access Management](https://www.coursera.org/learn/introduction-to-aws-identity-and-access-management) @ *Amazon Web Services* ([certificate](https://coursera.org/share/e2cb83c630695d0d119b9cdd8144c118))
 * [Compose and Program Music in Python using Earsketch](https://www.coursera.org/projects/compose-program-music-in-python-using-earsketch) @ *Coursera Project Network* ([certificate](https://coursera.org/share/858ee2015c639f0efaa9b786777632db))
 * [Build a Full Website using WordPress](https://www.coursera.org/projects/build-a-full-website-using-wordpress) @ *Coursera Project Network* ([certificate](https://coursera.org/share/ce8da045072e6a2432fdc5751c1ce536))
 * [Introduction to Basic Game Development using Scratch](https://www.coursera.org/projects/introduction-to-basic-game-development-using-scratch) @ *Coursera Project Network* ([certificate](https://coursera.org/share/02b66974cf5e92ba1f632a19105fed73))

@@ -604,7 +604,7 @@ oder:
   - etwas (für etwas) mitbringen 具备，具有
   - jn. unterstützen 支持某人
 
-{.medium .serif .oblique}
+{:.medium .serif .oblique}
 #### o.ä. d.h. z.B. 
   - o. ä. oder ähnliches
   - d. h. das heißt

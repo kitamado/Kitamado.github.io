@@ -620,7 +620,7 @@ oder:
 {:.medium .serif .oblique}
 #### Infinitiv + zu/dass-Satz
   - 不定式组的逻辑主语和主句一致
-    - Birgit hofft, die Prüfung bestehen **zu** können.c
+    - Birgit hofft, die Prüfung bestehen **zu** können.
   - 不定式组的逻辑主语是主句第三格，或第四格补足语  
     - Die Eltern schlagen Birgit vor, an der Prüfung teil**zu**nehmen.
   - 不定式组的逻辑主语以其他形式在主句中出现，或者可默认为指的针对任何人（常当不定式组充当主语时）

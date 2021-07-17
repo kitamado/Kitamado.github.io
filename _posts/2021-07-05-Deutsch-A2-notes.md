@@ -53,7 +53,7 @@ status: ongoing
     - *Ich freue mich über die gute Note in der Abschulussprüfung.*
     - *Es Freut mich, dich/Sie Kennenzulernen.*[[常用：认识你很高兴::rsn]] 
   - **sich freuen auf etw. (A)** [[über对已经发生的事情感到很高兴，auf对没有发生的事情感到高兴，期待::rsn]]
-    - *Weihnachten steht vor der Tür. Ich freue mich ser auf Weihnactten.*
+    - *Weihnachten steht vor der Tür. Ich freue mich sehr auf Weihnactten.*
   - **sich langweilen**
     - *Wir haben uns auf der Party gelangweilt.*
     - *Die Party langweilt die Gäste.*

@@ -656,3 +656,35 @@ oder:
 
 ### Briefformen 
   See [Briefschreiben.pdf](https://mailustceducn-my.sharepoint.com/:b:/g/personal/wushunyu2401_mail_ustc_edu_cn/EcHkhK7CB3hNnct3L7HpQdEB9dENUVssad5vl-X70Q6ozA?e=CnQ2Bk)
+
+#### Wortschatz
+
+{:.medium .serif .oblique}
+#### erziehen (die Erziehung) - ausbilden (die Ausbildung)
+
+  - erziehen 教育，培养，教养：对人（尤其是儿童）思想、性格、行为方式、未来发展等品行的培养
+  - ausbildung 训练、培训：主要是职业性方面的，如学校的专业学习或职业培训机构的学习
+
+{:.medium .serif .oblique}
+#### lernen - studieren
+
+  - lernen 技能、知识学习，中小学学习
+    - z.B. Fremdsprache/Autofahren lernen usw.
+  - studieren 研究型学习，大学专业学习
+    - Informatik/Sinologie studieren usw.
+    - studieren 作不及物动词时专指上大学
+
+{:.medium .serif .oblique}
+#### spielen
+  
+  - spielen作不及物动词，表示玩耍时专指儿童的游戏，汉语中成年人之间的玩不能译为spielen，可以译为sich unterhalten(放松、消遣)或者具体说明“玩”什么，怎么“玩”
+  - spielen作及物动词 经常和球类、乐器名词、游戏类名词搭配
+    - Klavier spielen，Karten spielen, Conputer spielen
+
+### Nebensatz mit "um ... zu" und "damit ..." (Finalsatz)
+
+  - 主语不一致用damit
+    - Hans rachut zu Hause nicht, damit seine Frau und seine Tochter nicht passiv mitauchen müssen.
+  - 主语一致用可以um...zu代替
+    - Sie geht in den Kindergarten, um ihr Kind abzuholen.
+    - Sie geht in den Kindergarten, damit sie ihr Kind abholt.

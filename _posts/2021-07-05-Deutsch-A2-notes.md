@@ -753,12 +753,36 @@ oder:
   {:.boxit}
   - Bestimmungswort（限定词）+ Grundwort（基本词）= Zusammensetzung（复合词）
   - 复合词的冠词（词性）及复数变化和基本词保持一致
-
-
   - die Land + die Karte = die Landkarte
   - die Zeitung + der Text = der Zeitungstext
   - der Tee + das Haus = das Teehaus
 
+#### Arten von Zusammensetzungen
+  - Nomen + Nomen
+    - der Computerkurs, das Klassenzimmer
+  - Verbstamm + Nomen 动词词干 + 名词
+    - das Fahrrad, der Gehweg
+  - Adjektiv + Nomen
+    - das Großstadt, die Freizeit
+
+#### Auflösung der Zusammensetzungen
+  - 分解形式
+    - 形容词 + 名词
+      - die Freizeit, die freie Zeit
+      - die Großstadt, die große Stadt
+    - 基本词 + 限定词二格（存在所属关系时）
+      - der Landesteil, der Teil der Landes
+      - die Jugendkriminalität, die Kriminalität der Jugend
+    - 基本词 + 介词 + 限定词
+      - das Kinderbuch, das BUch für Kinder
+      - das Stofftier, das Tier aus Stoff
+    - 名词 + 关系从句
+      - der Spielplatz, der Platym auf dem Kinder spielen dürfen
+
+#### "-s-" zwischen Bestimmungswort und Grundwort
+
+  - der Zeitung**s**text, der Gesundheit**s**zustand, der Tätigkeit**s**bericht, das Wirtschaft**s**studium, die Relativität**s**theorie, der Produktion**s**plan
+  - 当限定词词尾以-ung, -heit, -keit, -schaft, -tät, -tion结尾时，限定词和基本词之间一般以s连接
 
 ### Anderes
 

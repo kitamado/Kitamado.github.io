@@ -40,7 +40,7 @@ status: ongoing
   - **sich an/melden**  
     - *Er meldet sich **zu** einem Deutschkurs/beim Arzt an.*
     - *Er hat sein Kind zu einem Deutschkurs/beim Arzt angemeldet.*
-  - **sich erinnern an jn./etw. (A)**
+  - **sich erinnern an jn./etw. (A)** 自己想起 [[jn. an etwas erinnern 使某人想起::rsn]]
     - *Sie erinnert sich gern an ihre Kindheit.*
     - *Das Lied erinnert den alten Mann an ihre Heimat.*
   - **sich ärgern über jn./etw. (A)**
@@ -688,3 +688,92 @@ oder:
   - 主语一致用可以um...zu代替
     - Sie geht in den Kindergarten, um ihr Kind abzuholen.
     - Sie geht in den Kindergarten, damit sie ihr Kind abholt.
+
+### Wortbildung
+#### Präfix: un- (bei Adjektiven)
+
+  - klar - unklar
+  - glücklich - unglüklich
+  - ordentlich - unordentlich
+  - möglich - unmöglich
+  - genau - ungenau
+  - interessant - uninteressant
+
+## Lektion 19 China
+### Relativsatz 
+
+[[关系从句::lmn]]
+
+{:.medium .serif .oblique}
+#### Relativsätze mit dem Relativpronomen
+
+| Kasus | Maskulin | Neutrum | Feminin | Plural | 
+|:----:|:----:|:-----:|:-----:|:-----:|
+|Nom.| der | das | die | die |
+|Gen.| dessen | dessen | deren | deren | 
+|Dat.| dem | dem | der | **denen**|
+|Akk.| den | das | die | die |
+
+  - 关系从句第三格复数用**denen**
+
+{:.medium .seirf .oblique}
+#### Relativsätze mit Präpositionen
+
+
+
+{:.medium .seirf .oblique}
+#### Relativsätze mit "was" (nur im Nominativ und Akkusativ)
+
+ {:.boxit}
+ 当相关词是das, alles, nicht, etwas, einiges, winiges, manches, vieles, usw. (指代"物"的代词); das Schönste, das Letzte, das Beste usw. (由形容词最高级变化而来的抽象名词)，在关系从句中它们的关系代词都是was，was只有一格和四格的情况
+
+### Wortschatz
+ 
+  | bei Personen/Sachen mit dem bestimmten Artikel | bei Sachen mit Nullartikel|
+  |:------:|:-------:|
+  |alle | alles|
+  |viele|viel(es)|
+  |beide|beides|
+
+  - `*`Was essen Sie gern?
+  - `+`Fisch, Fleisch, Gemüse, **alles** schmeckt mir.
+  - `*`Lesen Sie Zeitungen, Zeitschriften oder Bücher?
+  - `+` Ich lese **alles**.
+  - `*`Wir sind deine Freunde?
+  - `+`Maria, Hans, Susi, Thomas, **alle** sind meine Freunde.
+  - Obwohl Herr Neugier **viel(es)** weiß, hat er immer noch Fragen.
+  - `*` Was wollen Sie, Geld oder Leben>
+  - `+` **Beides**!
+  - `*` Gäfallt dir der rote oder der blaue Pullover?
+  - `+` **Beide** gefallen mir sehr.
+
+### Wortbildung
+#### Artikei bei Zusammensetzungen
+
+  {:.boxit}
+  - Bestimmungswort（限定词）+ Grundwort（基本词）= Zusammensetzung（复合词）
+  - 复合词的冠词（词性）及复数变化和基本词保持一致
+
+
+  - die Land + die Karte = die Landkarte
+  - die Zeitung + der Text = der Zeitungstext
+  - der Tee + das Haus = das Teehaus
+
+
+### Anderes
+
+  - von ... begeistert sein 因为...兴奋
+  - etwas hat etwas mit etwas/jm. zu tun 某事和某事有关
+    - z.B. Was hat deine Sache mit mir zu tun?
+  - lauter纯粹的，净是的（无形容词词尾变化）
+    - Das ist lauter Wahrheit. 这是纯粹的真相
+  - A. + entlang 沿着
+  - in Richtung Westen/Osten/Süden/Noden
+  - etwas(A) als etwas(A) bezeichen 把..称作..
+  - der Wolkenkratzer 摩天大厦 (EN: skyscraper)
+    - Wolken云 + Kratzer刮具
+  - eine Menge （+泛指名词）大量、大批
+    - eine Menge Leute
+    - eine Menge Geld
+  - vergleichen + A. + mit 把...和...相比
+  - jn. verwöhnen宠溺

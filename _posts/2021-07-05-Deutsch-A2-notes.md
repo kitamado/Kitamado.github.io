@@ -715,10 +715,32 @@ oder:
 |Akk.| den | das | die | die |
 
   - 关系从句第三格复数用**denen**
+  - Der Mann kennt den Weg nicht. **Der Mann** steht dort.
+    - Der Mann, **der** dort steht, kennt den Weg nicht. (N)
+  - Das Kind ist nicht von hier. Ich habe **das Kind** gefragt. 
+    - Das Kind, **das** ich gefragt habe, ist nicht von hier. (A)
+  - Die Frau versteht mich nicht. Ich have **der Frau** geantworted.
+    - Die Frau, **der** ich geantwortet habe, versteht mich nicht. (D)
+  - Die Leute verstehen mich nicht. Ich habe **den** Leute**n** geantworted.
+    - Die Leute, **denen** ich geantwortet habe, verstehen mich nicht. (D)
+  - Der Film hat ein Happy End. Der Anfang des **Films** ist so traurig.
+    - Der Film, **dessen** Anfang so trautig ist, hat ein Happy End.
 
 {:.medium .seirf .oblique}
 #### Relativsätze mit Präpositionen
 
+  - Beispiele:
+    - Wo ist die Frau? Ich habe eben **mit** **ihr** gesprochen.
+    - `->` Wo ist die Frau, **mit** **der** ich eben gesprochen habe?
+    - Endlich kommt der Einladungsbrief von Professsor Kim. **Auf den Brief** habe ich schon lange gewartet.
+    - `->` Endlich kommt der Einladungsbrief von Professsor Kim, **auf den** ich schon lange gewartet habe.
+    - Die Touristen kommen aus Deutschland. Er unterhält sich mit ihnen.
+    - `->` Die Touristen, **mit** **denen** er sich unterhält, kommen aus Deutschland.
+  - Achtung
+    - Herr Wang ist mein Chef. Ich bin mit **seiner** Tochter befreundet.
+    - `->` Herr Wanf, mit **dessen** Tochter ich befreudet bin, ist mein Chef-
+    - Herr Wang hat mich entlassen. Ich habe mich in **seine** Tochter verliebt.
+    - `->` Herr Wang, in **dessen** Tochter ich mich verliebt habe, hat mich entlassen.
 
 
 {:.medium .seirf .oblique}
@@ -726,6 +748,12 @@ oder:
 
  {:.boxit}
  当相关词是das, alles, nicht, etwas, einiges, winiges, manches, vieles, usw. (指代"物"的代词); das Schönste, das Letzte, das Beste usw. (由形容词最高级变化而来的抽象名词)，在关系从句中它们的关系代词都是was，was只有一格和四格的情况
+
+ - **Das**, **was** ich dir gesagt habe, darfst du nicht weitersagen.
+ - **Alles**, **was** ich in China erlebt habe, ist unvergesslich.
+ - **Das Schönste**, **was** er mir erzählt hat, ist seine Liebesgeschichte.
+ - **Nichts**, **was** er macht, interessiert mich.
+ - **ähnlich**: etwas, einiges, weniges usw.; das Letzte, das Beste usw.
 
 ### Wortschatz
  

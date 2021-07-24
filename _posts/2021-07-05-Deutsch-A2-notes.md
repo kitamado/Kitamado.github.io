@@ -724,7 +724,7 @@ oder:
   - Die Leute verstehen mich nicht. Ich habe **den** Leute**n** geantworted.
     - Die Leute, **denen** ich geantwortet habe, verstehen mich nicht. (D)
   - Der Film hat ein Happy End. Der Anfang des **Films** ist so traurig.
-    - Der Film, **dessen** Anfang so trautig ist, hat ein Happy End.
+    - Der Film, **dessen** Anfang so trautig ist, hat ein Happy End. (G)
 
 {:.medium .seirf .oblique}
 #### Relativsätze mit Präpositionen

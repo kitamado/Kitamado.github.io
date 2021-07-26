@@ -6,6 +6,7 @@ tags: visa
 
 {:.boxit}
 29-07-2021，Shanghai
+
 22F, Building A, Far East Intl. Plaza
 319, Xian Xia Rd.
 Shanghai 200051
@@ -14,7 +15,7 @@ P.R. China
 ### materials
 #### First Set Origin
  - [x] Visa D application form
-   - 3张由本人填写并签名的D类签证申请表（申请逗留超过3个月的国家签证），可通过以下链接下载
+   - 3张由本人填写并签名的D类签证申请表（申请逗留超过3个月的国家签证）
    - [x] 4张尺寸为3.5cm x 4.5cm的白底彩色没有损坏的近照
    - [ ] 三张贴在申请表上，另外一张背面写上自己的名字，可以把中英文都写上
  - [x] TOEFL

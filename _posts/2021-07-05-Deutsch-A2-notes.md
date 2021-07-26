@@ -829,3 +829,106 @@ oder:
     - eine Menge Geld
   - vergleichen + A. + mit 把...和...相比
   - jn. verwöhnen宠溺
+
+## Lektion 20 Deutschland
+### Das Land, das Bundesland, das Ausland, das Inland
+
+  - auf dem Land在农村
+  - in Deutschland, im Heimatland在祖国
+  - Deutschland hat 16 Bundesländer.
+  - der Ausländer, der Inländer
+
+### Plusquamperfekt 
+
+#### 过去时态回顾 Perfect / Präteritum
+  - Perfect 现在完成时，常用于口头或日常生活交流中，强调事件的完成对当下产生的影响
+    - haben/sein + Partizip II
+    - 常用sein作助动词的动词：fahren, fliegen, reisen, steigen, einschlafen, aufwachen, aufstehen, werden, bleiben, sein ...
+  - Präteritum 一般过去时 常用于叙述童话、故事、报刊报道等，强调事件的过去性，叙述者与事件保持距离
+
+
+#### 过去完成时
+
+  - 指在一个过去的动作之前就完成的动词，即“过去的过去”
+  - 完成的事件，侧重事件带来的影响
+  - **hatte**... (**war**...) + Partizip II
+    - `+`Hat sie die Wäsche schon gewaschen?
+    - `*`Nein. Sie wollte die Wäsche am Nachmittag waschen aber ihr Mann **hatte** die Wäsche schon am Monrgen **gewaschen**.
+
+### Temporalsatz 
+
+{:.medium .serif .oblique}
+#### "wenn" und "als"
+
+  - a) Sie wurde 4 Jahre alt. Da bekam sie viele Geschenke.
+    - **Als** sie 4 Jahre alt **wurde**, **bekam** sie viele Geschenke. [[时态都是一般过去时::rsn]]
+  - b1) Ich kam nach Rom. Die Sonne schien immer.
+    - **Jedes Mal(Immer) wenn** ich nach Rom **kam**, **schien** die Sonne. [[一般过去时::rsn]]
+  - b2) Der deutsch Student hat Ferien. er geht immer arbeiten.
+    - **Jedes Mal(Immer) wen**n der deutsche Student Ferien **hat**, **geht** er arbeiten. [[一般现在时::rsn]]
+  - c) Im Jahre 2025 bin ich 55 Jahre alt. Dann ist mein Mann 56.
+    - **Wenn** ich im Jahre 2025 55 Jahre alt **bin**, **ist** mein Mann 56. [[将来::rsn]]
+
+
+  | | Vergangenheit过去| Gegenwart/Zukunft 现在/将来|
+  |:-------:|:-------:|:-------:|
+  |Einmalige Handlung一次性的行为|**als**(a.)|wenn(c.)|
+  |Mehrmalige Handlung多次性的行为|wenn(b1.)|wenn(b2.)| 
+
+
+{:.medium .serif .oblique}
+#### "während", "bevor" und "nachdem"
+
+  {:.boxit}
+  - während 在...期间，当...时候（强调同时性，对比性）
+  - bevor 在...之前（主句动作发生在从句前）
+  - nachdem 在...之后（主句动作发生在从句后）
+
+-----
+
+  - a) Der Mann frühstückt. Er liest gleichzeitig Zeitung.
+    - **Während** der Mann frühstückt, liest er Zeitung.
+  - a2) Er studierte an der Uni. Seine Schwester lernt in der Schule.
+    - **Während** er an der Uni studierte, lernte seine Schwester in der Schule.
+  - b1) Er geht zu seiner Freundin. Vorher ruft er sie an.
+    - **Bevor** er zu seiner Freundin **geht**, **ruft** er sie **an**.
+  - b2) Ich bin in die neue Wohnung eingezogen. Vorher habe ich sie gestrichen.
+    - **Bevor** ich in die neue Wohnung **eingezogen bin**, **habe** ich sie gestrichen.
+  - c1) Ich schreibe eine Postkarte. Danach bringe ich sie zur Post.
+    - Nachdem ich eine Postkarte **geschrieben habe**, **bringe** ich sie zur Post.
+  - c2) Er kam in Deutschland an. Danach besuchte er seinen Professor. [[两个事件都是发生在过去，但是nachdem带起的句子发生在besuchte seine Prof之前，所以是过去的过去::rsn]]
+    - **Nachdem** er in Deutschland **angekommen war**, **besuchte** er seinen Professor.
+
+
+  |  | Nebensatz| Hauptsatz|
+  |:------:|:------:|:-----:|
+  |während| Präsens|Präsens|
+  |während| Perfekt/Präteritum|Perfekt/Präteritum|
+  |bevor|Präsens|Präsens/Perfekt|
+  |bevor|Perfekt/Präteritum|Perfekt/Präteritum/Plusquamperfekt|
+  |nachdem|**Perfekt**|**Präsens**|
+  |nachdem|**Plusquamperfekt**|**Perfekt**/**Präteritum**|
+
+  - während同时发生，主句和从句时态一致
+  - bevor 主句发生早（过去），从句发生晚
+  - während和bevor主从句时态可以一致，nachdem主从句一定要有时态区别
+  - nachdem 从句要比主句早一个时态，因为从句发生动作在主句前完成（nachdem带起从句总是**完成时**或者过去**完成时**）
+
+{:.medium .serif .oblique}
+#### “seitdem(seit" und "bis"
+
+  {:.boxit}
+  - seitdem(seit) 自从...以来
+  - bis 到...为止
+
+-----
+
+  
+
+### Anderes
+
+  - **BRD** bedeutet Bundesrepublick Deutschland 联邦德国
+  - **DDR** bedeutet Deutsche Demokratische Republick 民主德国
+  - Am 13. August 1961 wurde die Mauer gebaut
+  - 09.11.1989 Mauerfall
+  - **3B** Bach, Beethoven, Brahms

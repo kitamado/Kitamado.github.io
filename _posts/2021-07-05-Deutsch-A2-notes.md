@@ -657,7 +657,7 @@ oder:
 ### Briefformen 
   See [Briefschreiben.pdf](https://mailustceducn-my.sharepoint.com/:b:/g/personal/wushunyu2401_mail_ustc_edu_cn/EcHkhK7CB3hNnct3L7HpQdEB9dENUVssad5vl-X70Q6ozA?e=CnQ2Bk)
 
-#### Wortschatz
+### Wortschatz
 
 {:.medium .serif .oblique}
 #### erziehen (die Erziehung) - ausbilden (die Ausbildung)
@@ -756,7 +756,7 @@ oder:
  - **ähnlich**: etwas, einiges, weniges usw.; das Letzte, das Beste usw.
 
 ### Wortschatz
- 
+#### alles-alle; viel(es)-viele; beides-beide
   | bei Personen/Sachen mit dem bestimmten Artikel | bei Sachen mit Nullartikel|
   |:------:|:-------:|
   |alle | alles|
@@ -831,7 +831,8 @@ oder:
   - jn. verwöhnen宠溺
 
 ## Lektion 20 Deutschland
-### Das Land, das Bundesland, das Ausland, das Inland
+### Wortschatz
+#### Das Land, das Bundesland, das Ausland, das Inland
 
   - auf dem Land在农村
   - in Deutschland, im Heimatland在祖国
@@ -923,8 +924,24 @@ oder:
 
 -----
 
-  
+  - Frau Li macht morgens Taiji. Seitdem geht es ihr besser.
+    - **Seitdem**(**Seit**) Frau Li morgens Taiji macht, geht es ihr besser.
+  - Er ist nach Shanghai umgezogen. Seitdem wohnt er immer in der Nanjing Strße.
+    - **Seitdem**(Seit) er nach Shanghai umgezogen ist, wohnt er immer in der Nanjing Straße.
+  - Sie wartet. Der Bus kommt.
+    - Sie wartet, **bis** der Bus kommt.
+  - Der Mann stand an der Bushaltestelle. Der Bus war außer Sicht[[außer在..之外，Sicht视线， 驶出视野::rsn]].
+    - Der Mann stand an der Bushaltestelle, **bis** der Bus außer Sicht war.
 
+
+  | | Nebensatz| Hauptsatz|
+  |:-----:|:------:|:-----:|
+  |seitdem(seit)| Präsens|Präsens|
+  |seitdem(seit)|Perfekt|Präsens|
+  |bis|Präsens/Präteritum/Perfekt|Präteritum/Perfekt|
+
+  - seit主句发生的动作延续到了现在并且将来还会延续下去，所以主句只可能是一般现在时
+  - 
 ### Anderes
 
   - **BRD** bedeutet Bundesrepublick Deutschland 联邦德国
@@ -932,3 +949,12 @@ oder:
   - Am 13. August 1961 wurde die Mauer gebaut
   - 09.11.1989 Mauerfall
   - **3B** Bach, Beethoven, Brahms
+  - entgegen/arbeiten(+D.) 抵制、阻碍、反对
+    - Königen und Fürsten, Staaten und Städte arbeiten einer "deutschen Einheit" entgegen.
+  - steigen von (ihren Thronen)从（皇位）下来
+    - steigen aus dem Auto
+  - ein/teilen + A. (in A.) 把...分为...\
+  - ... begann ... mit ...  und ging über ... bis zum .. 从...经过...直到 
+  - die Interessen(Pl.) 利益， das Interesse 兴趣
+  - etwas(A.) mit ... verbinden 把..和..联系在一起
+    - sich mit etwas verbinden 和...相连

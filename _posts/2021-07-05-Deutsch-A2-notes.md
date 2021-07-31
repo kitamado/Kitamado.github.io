@@ -953,7 +953,7 @@ oder:
     - Königen und Fürsten, Staaten und Städte arbeiten einer "deutschen Einheit" entgegen.
   - steigen von (ihren Thronen)从（皇位）下来
     - steigen aus dem Auto
-  - ein/teilen + A. (in A.) 把...分为...\
+  - ein/teilen + A. (in A.) 把...分为...
   - ... begann ... mit ...  und ging über ... bis zum .. 从...经过...直到 
   - die Interessen(Pl.) 利益， das Interesse 兴趣
   - etwas(A.) mit ... verbinden 把..和..联系在一起

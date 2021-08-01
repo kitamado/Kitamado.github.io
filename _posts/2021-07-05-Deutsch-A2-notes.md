@@ -941,7 +941,29 @@ oder:
   |bis|Präsens/Präteritum/Perfekt|Präteritum/Perfekt|
 
   - seit主句发生的动作延续到了现在并且将来还会延续下去，所以主句只可能是一般现在时
-  - 
+
+
+### Wortbildung
+  
+#### Nomen + -los
+
+  - der Wert + -los -> wertlos
+  - kinderlos, sinnlos, sprachlos, hoffnunglos, humorlos, lustlos, kostenlos, erfolglos, arbeitlos, sorglos, phantasielos, verständnislos
+
+#### Nomen + -voll
+  - der Wert + voll -> wertvoll
+  - humorvoll, sinnvoll, bedeutungsvoll, phantasievoll, hoffnungsvoll, verständnisvoll
+  - N + voll名词通常情况下是不可数名词或者是名词不可数用法（表示抽象意义）
+
+#### Nomen + -arm
+  - der Wasser + -arm -> wasserarm
+  - bevölkerungsarm, fettarm, ideenarm, waldarm
+
+#### Nomen + -reich
+  - der Wasser + -reich -> wasserreich
+  - bevölkerungsreich, erflogreich, ideenreich, waldreich, kinderreich
+
+
 ### Anderes
 
   - **BRD** bedeutet Bundesrepublick Deutschland 联邦德国
@@ -958,3 +980,91 @@ oder:
   - die Interessen(Pl.) 利益， das Interesse 兴趣
   - etwas(A.) mit ... verbinden 把..和..联系在一起
     - sich mit etwas verbinden 和...相连
+
+## Lektion 21 Berufe
+
+{:.boxit}
+  - Was ist die Frau von Beruf?
+  - Was macht sie in ihrem Beruf?
+  - Was muss sie alles machen?
+  - Was machen Sie?
+  - Was machen Sie beruflich?
+  - Was ist Ihr Beruf?
+
+
+### Nebensatz mit "je...umso(desto)" (Proportionalsatz)
+  - je.. umso(desto) 越.., 越.. (从句在前，主句在后)
+  - 当形容词比较级充当状语/表语时：
+    - je + 比较级 + 主语 + ... + 变为动词, umso(desto) + 比较级 + 变位动词 + 主语
+    - **Je fleißiger** Sie lernen, **umso(desto)** **besser** können Sie Deutsch sprechen.
+  - 当形容词的比较级作定语时：
+    - je + 比较级 + 被修饰词 + 主语 + ... + 变为动词, umso(desto) + 比较级 + 被饰词 + 变位动词 + 主语 + ...
+    - **Je mehr** Möbel man kauft, **umso(desto) mehr** Platz muss man haben.
+
+### Nebensatz mit "so dass/so ..., dass" （Konsekutivsatz)
+  - ...,so dass.. 导致/以至于... （前一个事件导致后一个事件）
+  - Vielen jungen Chinesen gefällt die Peking-Oper nicht, **so dass** immer weniger Leute in die Peking-Oper gehen.
+  - Er hat einen dicken Bauch, **so dass** er seine Füße nicht mehr sehen kann.
+  - Er hat einen **so** dicken Bauch, **dass** er seine Füße nicht mehr sehen kann.
+
+### Nebensatz mit "indem/dadurch, dass" (Modalsatz)
+
+  - ..., indem ... 通过...(方式)，带起情况状语从句
+  - dadurch是代副词，指代的内容是后面dass带起的内容
+  - Viele Studenten bereiten sich auf ihrem zukünftigen Beruf vor, **indem** sie Praktika in Betrieben machen. 
+  - **Dadurch**, **dass** viele Studenten Praktika in Betrieben machen, bereiten sie sich auf ihren zukünftigen Beruf vor.
+
+### Indefinitpronomen: man
+  - man 指代不确定的“人”， 第三人称单数概念
+
+  | N| man |
+  |:-----:|:------:|
+  |G| - |
+  |D| einem |
+  |A| einen |
+
+  - Was **man** gern tut, das fällt ei**n**em nicht schwer.
+  - Es freut **einen**, wenn **man** Erfolg hat.
+  - der Mann, - ..er 男人，丈夫（常在物主代词后）可特指
+
+### Wortbildung
+
+{:.boxit}
+  - -ig 标记时间的长度
+  - -lich 用来标记时间的频率
+  - alle/jede + 时间：每..(单位时间大于一) 一次
+
+
+#### Zur bezeichnung der Zeitdauer
+  
+  - einsekündig = eine Sekunde lang 一秒钟的
+  - zehnminütig = zehn Minuten lang
+  - 14-tätig(一般当数字大于12时，用阿拉伯数字) = 14 Tage lang
+  - 以-ig结尾表时间长度的形容词（由对应名词变化而来）常和数词结合在一起作定语，修饰名词
+
+### Zur Bezeichnung des Zeittaktes
+  
+  - sekündlich = jede Sekunde
+  - stündlich = jede Stunde
+  - täglich = jedem Tag （名词第四格作状语）
+  - 以-lich结尾的上述词表示“每个单位时间一次的”，可作形容词也可作副词
+  - jede zweite Sekund**e(单数)** = alle zwei Sekund**en(复数)**
+  - jede dritte Minute = alle drei Minuten 每三分钟一次
+  - jed**en** siebt**en** Monat = alle sieben Monate (A)
+  - jed**es** acht**e** Jahr = alle acht Jahre
+  - Wie oft finden Olympische Spiele statt?
+  - Alle vier Jahre(einmal). / Jedes vierte Jahr.
+
+
+### Anderes
+  - auf diese Weise 通过这种方式，以这种方式
+  - im Stau stehen 在堵车中
+  - innerhalb + G. 在..之内
+    - innerhalb einer Stadt
+    - innerhalb eines Tages
+  - Ende der 90er Jahre 
+  - Mitte der 90er Jahre
+  - durchschnittlich 平均的 adj.
+  - auf dem Rücken 在背上
+  - für .. verantwortlich sein 对..负责
+

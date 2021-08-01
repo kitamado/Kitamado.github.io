@@ -57,6 +57,7 @@ tag: other
 - [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) @ *Google Cloud* ([certificate](https://coursera.org/share/36eacd54ba2ba05a1112606d0d50cdb4))
 - [The Challenges of Global Health](https://www.coursera.org/learn/global-health) @ *Duke University* ([certificate](https://coursera.org/share/adfd4b664637a71d6d2503dd3ad6e585))
 - [Positive Psychology](https://www.coursera.org/learn/positive-psychology) @ *The University of North Carolina at Chapel Hill* ([certificate](https://coursera.org/share/e727f7d218bb99fb833fc59d79b1b9be))
+- [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) @ *McMaster University* ([certificate](https://coursera.org/share/7de39e5122ee6fa19743b6a79f7c976e))
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning) @ *Amazon Web Services* ([certificate](https://coursera.org/share/e7c872810f7931d0c040504aa7979d58))
 * [Transfer Learning for NLP with TensorFlow Hub](https://www.coursera.org/projects/transfer-learning-nlp-tensorflow-hub) @ *Coursera Project Network* ([certificate](https://coursera.org/share/133a64481420d85bf2145ec91d46930f))
 * [Machine Learning Pipelines with Azure ML Studio](https://www.coursera.org/projects/azure-machine-learning-studio-pipeline) @ *Coursera Project Network* ([certificate](https://coursera.org/share/2f41f1f62ce3f4bc78ec7fe05dbf5bef))

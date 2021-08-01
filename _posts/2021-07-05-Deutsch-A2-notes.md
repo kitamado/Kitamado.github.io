@@ -1042,7 +1042,7 @@ oder:
   - 14-tätig(一般当数字大于12时，用阿拉伯数字) = 14 Tage lang
   - 以-ig结尾表时间长度的形容词（由对应名词变化而来）常和数词结合在一起作定语，修饰名词
 
-### Zur Bezeichnung des Zeittaktes
+#### Zur Bezeichnung des Zeittaktes
   
   - sekündlich = jede Sekunde
   - stündlich = jede Stunde

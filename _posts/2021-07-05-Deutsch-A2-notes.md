@@ -757,6 +757,8 @@ oder:
 
 ### Wortschatz
 #### alles-alle; viel(es)-viele; beides-beide
+
+
   | bei Personen/Sachen mit dem bestimmten Artikel | bei Sachen mit Nullartikel|
   |:------:|:-------:|
   |alle | alles|

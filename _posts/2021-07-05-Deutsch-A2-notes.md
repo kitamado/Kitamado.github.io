@@ -1070,3 +1070,48 @@ oder:
   - auf dem Rücken 在背上
   - für .. verantwortlich sein 对..负责
 
+
+## Lektion 23 Gesundheit
+
+### Vorgangspassiv 
+
+{:.boxit}
+  Form: werden (+ von ...) + Partizip II
+
+{:.serif .oblique .medium}
+#### Gebrauch des Vorgangspassivs
+
+  - Man arbeitet samstags nicht.
+    - Es **wird** samstags nicht **gearbeitet**.
+    - Samstags **wird** nicht **gearbeitet**.
+  - Man massiert den Mann(A).
+    - Der Mann(N) **wird** massiert.
+  - Frau Schön(N) massiert den Mann.
+    -  Der Mann(N) **wird** (von Frau Schön(D)) massiert.
+  - Er(N) schneidet mir(D) oft die Haare(A).
+    - Mir(D) **werden** oft die Haare(N) (von ihm(D)) **geschnitten**.
+  - Man hilft dem Kind(D).
+    - Dem Kind(D) **wird** **geholfen**.
+  - Frau Schmidt(N) hilft dem Kind(D).
+    - Dem Kind(D) **wird** (von Frau Schmidt) **geholfen**.
+  - Man wartet lange auf den Bus.
+    - Es **wird** lange auf den Bus **gewartet**.
+    - Auf den Bus **wird** lange **gewartet**.
+
+{:.medium .serif .oblique}
+#### Zeitformen des Vorgangspassivs
+
+  - Der Arzt operiert Herrn Zhang.
+    - Herr Zhang **wird** (vom Arzt) **operiert**.
+    - Präsens: [[werden + P.II::highlight]] 
+
+  - Der Arzt operierte Herrn Zhang.
+    - Herr Zhang **wurde** (vom Arzt) **operiert**.
+    - Präteritum: [[wurde ... + P.II::highlight]]
+  - Der Arzt hat Herrn Zhang operiert.
+    - Herr Zhang ist (vom Azrt) **operiert** **worden**.
+    - Perfekt: [[sein + P.II + worden]]
+  - Nachdem der Arzt Herrn Zhang operiert hatte, wurde er wieder gesund.
+    - Nachdem Herr Zhang(vom Arzt) operiert wordem war, wurde er wieder gesund.
+    - Plusquamperfekt: [[war.. + P.II + worden::highlight]]
+

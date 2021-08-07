@@ -814,7 +814,7 @@ oder:
   - der Zeitung**s**text, der Gesundheit**s**zustand, der Tätigkeit**s**bericht, das Wirtschaft**s**studium, die Relativität**s**theorie, der Produktion**s**plan
   - 当限定词词尾以-ung, -heit, -keit, -schaft, -tät, -tion结尾时，限定词和基本词之间一般以s连接
 
-### Anderes
+### Verschiedenes
 
   - von ... begeistert sein 因为...兴奋
   - etwas hat etwas mit etwas/jm. zu tun 某事和某事有关
@@ -966,7 +966,7 @@ oder:
   - bevölkerungsreich, erflogreich, ideenreich, waldreich, kinderreich
 
 
-### Anderes
+### Verschiedenes
 
   - **BRD** bedeutet Bundesrepublick Deutschland 联邦德国
   - **DDR** bedeutet Deutsche Demokratische Republick 民主德国
@@ -1058,7 +1058,7 @@ oder:
   - Alle vier Jahre(einmal). / Jedes vierte Jahr.
 
 
-### Anderes
+### Verschiedenes
   - auf diese Weise 通过这种方式，以这种方式
   - im Stau stehen 在堵车中
   - innerhalb + G. 在..之内
@@ -1072,10 +1072,24 @@ oder:
 
 
 ## Lektion 23 Gesundheit
+### Redemittel
+
+  {:.boxit}
+  - Was fehlt Ihnen?
+  - Welche Beschwerden haben Sie?
+  - Wo haben Sie Schmerzen? / Wo tut es Ihnen Weh? / Tut Ihnen das Weh?
+  - Machen Sie bitte den Mund auf und sagen Sie "aaa"!
+  - Machen Sie den Oberkörper frei! / Machen Sie sich bitte frei! / Ziehen Sie sich bitte aus!
+  - Legen Sie sich bitte aufs Bett!
+  - Sie sind erkältet. / Sie haben eine Lungenentzündung.
+  - Ich verschreibe Ihnen ein Rezept.
+  - Nehmen Sie von den Tabletten dreimal täglich eine!
+  - Ich schreibe Sie 2 Tage krank.
 
 ### Vorgangspassiv 
 
 {:.boxit}
+  过程被动态
   Form: werden (+ von ...) + Partizip II
 
 {:.serif .oblique .medium}
@@ -1098,6 +1112,13 @@ oder:
     - Es **wird** lange auf den Bus **gewartet**.
     - Auf den Bus **wird** lange **gewartet**.
 
+  - 被动句中动词发出者用介词von和**durch**来引导的区别
+    - von引导的行动主体可以是人或机构
+      - Das Stipendium wird vom DAAD unterstützt.
+    - 由介词durch引导的大多表示手段、媒介,或表示原因
+      - Der Kranke wurde durch ein neues Medikamente geheilt.
+      - Der Fabrik wurde durch einen Brand zerstört.
+
 {:.medium .serif .oblique}
 #### Zeitformen des Vorgangspassivs
 
@@ -1110,8 +1131,58 @@ oder:
     - Präteritum: [[wurde ... + P.II::highlight]]
   - Der Arzt hat Herrn Zhang operiert.
     - Herr Zhang ist (vom Azrt) **operiert** **worden**.
-    - Perfekt: [[sein + P.II + worden]]
+    - Perfekt: [[sein + P.II + worden::highlight]]
   - Nachdem der Arzt Herrn Zhang operiert hatte, wurde er wieder gesund.
     - Nachdem Herr Zhang(vom Arzt) operiert wordem war, wurde er wieder gesund.
     - Plusquamperfekt: [[war.. + P.II + worden::highlight]]
 
+### Wordvildung
+
+#### Präfixe: be-, ver-, zer-
+
+  [[非重读不可分前缀::lmn]]
+
+##### be-
+  - 加上be-前缀后, 动词由不及物动词变成及物动词, 意义不变
+  - antworten auf(A) - beanrworten + A
+    - Der Schüler hat **auf** die Frage des Lehrers **geantwortet**.
+    - Der Schüöer hat die Frage des Lehrers **beantwortet**.
+  - sprechen über(A)/von(D) - besprechen
+    - Wir **sprechen** in dieser Lektion **über** eine gesunde Lebensweise.
+    - Wir **besprechen** in dieser Lektion eine gesunde Lebensweise.
+  - schreiben über(A) - beschreiben + A
+  - achten auf (A) - beachten + A
+  - siegen über(A) - besiegen
+  - zweifeln an(D) - bezweifeln
+  - 不是所有不及物动词都能加be变成及物动词
+
+##### ver-
+  - ver-前缀使形容词变为动词, 表示状态变化或程度加强.
+  - besser - verbessern
+    - Der Lehrer verbessert die Aussprache der Studenten.
+  - breiter - verbreitern
+    - Die enge Straße muss man verbreiten.
+  - schöner - verschönern 
+    - Mit Bäumen und Blumen verschönert man die Stadt.
+  - kurz - verkürzen 
+    - Rauchen verküzet das Leben.
+  - deutlich - verdeutlichen 说明, 使明白, 把...解释清楚
+    - Mit einem Beispiel hat er seine Meinung verdeutlicht.
+  - Ähnliche Verben: vergrößern, verkleinen, verbilligen, verlängern
+
+##### zer-
+  - zer- 表示发生不好的结果, 破碎, 分裂, 损坏的意思
+  - zerbrechen  
+    - Er hat die Tasse zerbrochen.
+  - zerreißen
+    - Das Kind har das Buch zerrissen.
+  - zerschneiden
+    - Das Kind zerschneidet das Papier.
+  - zerstören
+    - Berlin wurde im Krieg zerstört.
+
+### Verschiedenes
+
+  - durchführen 执行,实施
+  - jm zu etw raten / jm raten, etawas zu tun 建议,劝告, 给某人出主意
+  - als .. gelten 被视为, 被看作是..

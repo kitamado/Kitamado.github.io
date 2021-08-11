@@ -1186,3 +1186,60 @@ oder:
   - durchführen 执行,实施
   - jm zu etw raten / jm raten, etawas zu tun 建议,劝告, 给某人出主意
   - als .. gelten 被视为, 被看作是..
+
+## Lektion 24 Auf der Bank
+
+### Vorgangspassiv mit Modalverben
+
+{:.boxit}
+Form: Modalverbel + Partizip II + werden
+
+  - Heute kann man Telefonrechnungen bargeldlos bezahlen.
+    - Heute **können** Telefonrechnungen bargeldlos **bezahlt** **werden**.
+  - Früher musste man Telefonrechnung bar bezahlen.
+    - Früher **mussten** Telefonrechnungen bar **bezahlt** **werden**.
+    - Früher haben Telefonrechnungen bezahlt werden müssen. [[完成时::rsn]]
+  - Eine amerikanische Bank will ein Büro in Shanghai eröffnen.
+    - Ein Büro **soll** (von einer amerikanischen Bank) **eröffnet** **werden**.
+  
+### Zustandspassiv 
+
+{:.boxit}
+Form: sein + Partizip II
+
+{:.medium .serif .oblique}
+#### Zustandpassiv der Gegenwart
+
+  - Das Fenster wird geöffnet. (Vorgang)
+  - Das Fenster **ist** **geöffnet** (Zustand).
+
+{:.medium .serif .oblique}
+#### Zustandpassiv der Vergangeheit
+
+  - Im Krieg wurden viele Städte zerstört.
+  - Nach dem Krieg **waren** viele Städte **zerstört**.
+
+{:.medium .serif .oblique}
+#### Zustandpassiv im Vorgangspassiv und Zustandpassiv
+
+   | Vorgangspassiv | Zustandspassiv |
+   |:------:|:------:|
+   |Die Bank wird **um zwei Uhr** geschlossen. / Die Bank ist **gerade** geschlossen worden. | Die Bank ist **von zwei bis vier Uhr**/**seit einer Woche** geschlossen.|
+   |Die Bank wurde **vor  vier Wochen** geschlossen. | Die Bank war **zwei Wochen lang** geschlossen|
+   
+### Verschiedenes
+
+  - die Grundlage für etwas
+  - Zahlungen leisten = zahlen
+  - so gut wie = beinah = fast 几乎
+  - Gebühren berechen/erheben/verlangen
+  - unter etwas(D) verstehen 理解
+    - Was versteht man unter diesern Begriff?
+  - um/buchen 把...过账, 转入(另外的账户) = überweise 
+  - 介词Per支配第四格: 经过,通过某种方法 = mit
+  - einen Dauerauftrag erteilen(Vt. 给予) 办理长期划付委托
+  - bei引导介词短语 = wenn引导条件从句 ; 在某种情况下
+  - jn. mit etwas beauftragen / jn. beauftragen, etw zu tun 委托某人某事
+  - zusätzlich 附加的, 额外的
+  - sog. = sogenannt 所谓的
+  - für etwas stehen 代表

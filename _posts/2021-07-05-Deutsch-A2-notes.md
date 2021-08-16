@@ -1243,3 +1243,87 @@ Form: sein + Partizip II
   - zusätzlich 附加的, 额外的
   - sog. = sogenannt 所谓的
   - für etwas stehen 代表
+
+## Lektion 25 Massenmedien
+
+### brauchen nicht/kein/nur zu Indinitiv
+
+  - **Muss** ich den ganzen Nachmittag Lektion 24 wiederholen?
+  - Nein, du **brachst** **nicht** so lange Deutsch **zu** wiederholen. Du **brachst** **nur** zwei Stunden Deutsch zu wiederholen.
+  - Du **brauchst** heute **keine** Hauaufgaben **zu** machen.
+
+### scheinen zu Infinitiv
+
+  - Soll ich den Regenschirm mitnehmen?
+  - Ja, es **scheint** bald **zu** regnen.
+
+### haben zu Infinitiv
+
+  - Warum bist du immer noch im Burö?
+  - Ich **habe** noch zwei Briefe **zu** schreiben.
+  - Ich muss noch zwei Briefe schreiben.
+
+### sein zu Infinitiv
+
+  - Muss man den Bericht heute fertig schreiben?
+  - Ja, der Bericht **ist** heute fertig **zu** schreiben. (Der Bericht **muss** heute fertig **geschrieben** **werden**.)
+  - Kann man das Problem lösen?
+  - Ja, das Problem **ist** leicht **zu** lösen. (Das Problem **kann** leicht **gelöst** **werden**.)
+
+### Verben + Infinitiv
+#### Präsens/Präteritum
+
+  - Der Chefredakteur **lässt**/**ließ** die Journalisten Berichte *schreben*.
+  - Herr Zhao **sieht**/**sah** seine Frau vor dem Fernseher *sitzen*.
+  - Frau Müller **hört**/**hörte** jeden Morgen ihren Nachbarn *singen*.
+  - Der Lehrer **lehrt**/**lehrte** uns *malen*.
+  - Das Kind **lernt**/**lernte** Klavier *spielen*.
+  - Frau Schmidt **geht**/**ging** *einkaufen*.
+  - Der Gast **kommt**/**kam** wöchentlich dreimal *schwimmen*.
+
+#### Perfekt
+
+  - Herr Zhao **hat** seine Frau vor dem Fernseher **sitzen** **sehen**.
+  - Frau Müller **hat** jeden Morgen ihren Nachbarn **singen** **hören**.
+  - Der Chefredakteur **hat** die Journallisten Berichte **schreiben** **lassen**.
+  - **Aber**
+  - Der Lehrer **hat uns malen gelehrt**.
+  - Das Kind **hat Klavier spielen gelernt**.
+  - Frau Schmidt **ist einkaufen gegangen**.
+  - Der Gast **ist** wöchentlich dreimal **schwimmen gekommen**.
+
+### Futur
+
+#### Zukünftige Handlug
+
+{:.boxit}
+Form: werden + Infinitiv
+
+
+Beispiele: 
+  - Professor Weber arbeitet im nächsten Monat bei Siemens.
+  - Professor Weber **wird** im nächsten Monat bei Siemens **arbeiten**.
+
+#### Bekräftigung
+
+  - Fahen Sie im Oktober nach Deutschland?
+  - Ja.
+  - Wirklich?
+  - Ja.
+  - Wirklich?
+  - Ja, ich **werde** nach Deutschland fahren.
+
+#### Feste Absicht (ich, wir)
+
+  - Ich werde meinen Prinz finden.
+  - Ich werde einen rechen Mann heiraten.
+  - Ich werde aufhören zu rauchen.
+
+#### Befehl
+
+  - Du wirst jetzt ins Bett gehen.
+  - = Geh jetzt ins Bett!
+  - Ihr werdet mit niemandem darüber sprechen.
+  - =Sprecht mit niemandem darüber!
+  - Sie werden sich sofort bei ihm entschuldigen.
+  - = Entschuldigen Sie sich sofort bei ihm!

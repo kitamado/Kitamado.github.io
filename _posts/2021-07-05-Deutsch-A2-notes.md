@@ -1248,23 +1248,27 @@ Form: sein + Partizip II
 
 ### brauchen nicht/kein/nur zu Indinitiv
 
+  - = müssen nicht / müssen nur
   - **Muss** ich den ganzen Nachmittag Lektion 24 wiederholen?
   - Nein, du **brachst** **nicht** so lange Deutsch **zu** wiederholen. Du **brachst** **nur** zwei Stunden Deutsch zu wiederholen.
   - Du **brauchst** heute **keine** Hauaufgaben **zu** machen.
 
 ### scheinen zu Infinitiv
-
+  
+  - scheinen Vi. 看起来，好像
+  - scheinen + zu + Infinitiv 表示根据某一迹象进行预测或猜测 = wahrscheinlich / scheinbar
   - Soll ich den Regenschirm mitnehmen?
   - Ja, es **scheint** bald **zu** regnen.
 
 ### haben zu Infinitiv
-
+  - = müssen
   - Warum bist du immer noch im Burö?
   - Ich **habe** noch zwei Briefe **zu** schreiben.
   - Ich muss noch zwei Briefe schreiben.
 
 ### sein zu Infinitiv
 
+  - = sollen / müssen / können + P.II + werden
   - Muss man den Bericht heute fertig schreiben?
   - Ja, der Bericht **ist** heute fertig **zu** schreiben. (Der Bericht **muss** heute fertig **geschrieben** **werden**.)
   - Kann man das Problem lösen?
@@ -1327,3 +1331,51 @@ Beispiele:
   - =Sprecht mit niemandem darüber!
   - Sie werden sich sofort bei ihm entschuldigen.
   - = Entschuldigen Sie sich sofort bei ihm!
+
+### Adjektivzusammensetzungen 
+
+{:.boxit}
+复合形容词
+  - ur-
+    - ur作名词前缀表示原始，如 Urmensch 原始人
+    - ur作形容词前缀表示“极，高度” 如 uralt, urkomisch
+  - reisen- 
+    - der Riese,-n 巨人，庞然大物
+    - reisengroß 巨大的
+  - stein-
+    - steinreich 原为盛产宝石的，现多使用其转义，极其富有的
+  - hoch- 
+    - hoch作形容词前缀表示 “非常的”， “高度的”
+    - begabt，hochbehabt 非常有天赋的
+  - tief-
+    - tief作形容词前缀表示 深刻的，深沉的
+    - beeindruckt 有印象的
+    - tiefbeeindruckt 印象深刻的
+    - tiefgekränkt
+  - bild-
+    - bildschön 美丽如画的
+  - bitter-
+    - biiter作形容词前缀加强语气，表示 “非常，极其”
+    - bitterböse 狂怒的
+    - bitterkalt 非常冷的
+  - tod-
+    - tod 加强语气和程度
+    - todsicher 极有把握的
+    - todlangweilig极其无聊的
+
+### Verschiedenes
+
+  - an sechster Stelle leigen/sein = auf dem sechsten Platz liegen/sein = den sechsten Platz einnehmen/belegen
+  - genannt: P.II von nennen = erwähnt 说到的，提到的
+  - sich informieren in (D) über (A) 打听，了解某事
+    - in Rundfunk / im Fernseher / in der Zeitung / im Internet über die Nachrichten
+  - an/scjalten 打开电源
+  - aus/schalten 关掉（电源）
+  - auf jn./etw. stolz sein 为某人/某事而骄傲
+  - -gemäß 相符的，相应的 （相当于entsprechend）
+    - altergemäß 合乎年龄的
+    - auftragsgemäß 合乎合同的
+  - von jm/etw(D) berichten; über jn./etw.(A) berichten 报告，报道
+  - hinzu/kommen 添加，附加
+    - Kommt noch etwas hinzu? 您还要点什么吗？
+  - etw. fehlt jm. 某人缺少某物，物作主语

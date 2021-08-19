@@ -1379,3 +1379,114 @@ Beispiele:
   - hinzu/kommen 添加，附加
     - Kommt noch etwas hinzu? 您还要点什么吗？
   - etw. fehlt jm. 某人缺少某物，物作主语
+
+## Lektion 26 Wünsche Hoffnungen Träume
+
+### Worschatz
+
+  - sich (D) etwas (A) wünschen 希望，想要得到某物
+  - jm. etwas wünschen  祝愿某人某事
+  - hoffen，dass .../ hoffen, etwas zu tun
+  - auf etwas(A) hoffen 
+  - träumen (von etwas) 梦（见）
+  - träumen von (D) 梦想，幻想
+  - der Wunsch, die Wünsche
+    - Wünsche haben/äußern/aussprechen/verwirkchen
+    - in Erfüllung gehen = sich erfüllen
+  - die Hoffnung, -en
+    - Hoffnungen haben/zerstören
+    - sich/jm. die Hoffnung machen
+  - der Traum, die Träume
+    - erzählen von Träumen
+
+### Konjunktiv II der Gegenwart und Zukunft
+
+{:.boxit}
+- 虚拟式表示非现实，表明说话人认为所说内容不符合现实
+- 德语中虚拟式分为第一虚拟式和第二虚拟式
+- 第二虚拟式主要表达非现实的愿望、假设
+
+#### Formen
+##### die Vollverben
+
+  - 规则动词（弱变化动词）第二虚拟式与直陈式过去时完全相同
+  - sein,haben,weden 既是实意动词也是助动词，K.II由过去时词干加虚拟式人称词尾构成，过去时词干中元音要变音
+  ![vollverben](../assets/img/deutschA2/L26-Vollverben.png)
+  ![vollverben](../assets/img/deutschA2/L26-Vollverben2.png)
+
+##### die Modalverben
+
+  - mögen特殊，第二虚拟式为möchten
+  - ![vollverben](../assets/img/deutschA2/L26-Modalverben.png)
+
+#### Gebrauch
+##### Höfliche Fragen und Bitten
+
+  常将祈使句改为虚拟式来委婉的表达请求
+  - Geben Sie mir Ihre Adresse!
+    - Würden/Könnten Sie mir Ihre Adresse geben?
+  - Machen Sie bitte die Tür zu!
+    - Würden/Könnten Sie bitte die Tür zumachen?
+  - Haben Sie Zeit, mir das Märchen vorzulesen?
+    - Hätten Sie Zeit, mir das Märchen vorzulesen?
+  - Darf ich hereinkommen?
+    - Dürfte ich hereinkommen?
+    - Aber: bei Fragen mit Fragewort
+  - Wie spät ise es?
+    - Könnten Sie mir sagen, wie spät es ist?
+
+##### Höfliche Hinweise, Empfehlung
+
+  - Sie müssen mehr arbeiten.
+    - Sie sollten mehr arbeiten.
+
+##### Irrealität
+###### Irrale Wunschsätze
+
+非现实愿望句，用wen引导的独立条件句来表达，或将变位动词放句首，句末用感叹号。 句中常有语气词doch，nur，bloss，doch nur等加强语气
+- Ich kann nicht fliegen. Ich wünsche mir:
+  - **Wenn** ich **doch fliegen könnten**!
+  - **Könnte** ich **doch fliegen**!
+- Ich habe keinen beruflichen Erfolg. Ich wünsche mir:
+  - **Wenn** ich **nur** beruflichen Erfolg **hätte**!
+  - **Hätte** ich **nur** beruflivhen Erfolg!
+- Er ist sehr krank. Er wartet auf den Arzt.
+  - **Wenn** der Arzt **nur**/**doch** **käme**!
+  - **Käme** **nur**/**doch** der Arzt!
+
+
+###### Irreake Bedingungssätze
+  - 非现实条件句
+  - **Wenn** Männer Kinder bekommen **könnten**, **würden** Frauen keine Kinder bekommen.
+  - **Wenn** Tiere sprechen **könnten**, **könnten** sich die Menschen mit den Tieren unterhalten.
+  - **Wäre** der Computer köüger als die Menschen, **hätten** die Menschen ein großes Problem.
+
+###### an ihrer Stelle/an seiner Stelle /...
+
+  - Hast du gehört, Adam und Eva möchten heiraten?
+  - Was?! An seiner Stelle würde ich die faule Eva aber nicht heiraten.
+  - Was?! An ihrer Stelle würde ich den dummen Adam aber nicht heiraten.
+  
+###### so tun, als ob ... /als ...
+
+  - Er ist nicht Chef.
+  - Er **tut nur/bloß so**, **als ob** er Chef **wäre**.
+  - Er tut nur/bloß so, **als wäre** er Chef.
+
+### Konjunktiv II der Vergangenheit
+
+Form: wäre ... / hätte... + P.II
+
+| Zeitform | Indikativ | Konjunktiv II |
+| Gegenwart und Zukunft | Hans kommt.  | Hans käme. |
+| |Monika erzählt. | Monika erzählen.|
+| Vergangenheit | Hans kam. | |
+| |Hans ist gekommen.| Hans wäre gekommen.|
+| |Hans war gekommen. | |
+| | Monika erzählte.| |
+| | Monika hat erzählt.| Monika hätte erzählt.|
+| | Monika hatte erzählt.| |
+|Gegenwart und Zukunft| Limuss heute kommen. | Li müsste heute kommen.|
+|Vergangenheit| Li konnte gestern nicht kommen.| |
+| | Li hat gestern nicht kommen können.|Li hätte gesten nicht kommen können.|
+| | Li hatte gestern nicht kommen können.| | 

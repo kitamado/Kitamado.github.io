@@ -1459,7 +1459,7 @@ Beispiele:
   - 非现实条件句
   - **Wenn** Männer Kinder bekommen **könnten**, **würden** Frauen keine Kinder bekommen.
   - **Wenn** Tiere sprechen **könnten**, **könnten** sich die Menschen mit den Tieren unterhalten.
-  - **Wäre** der Computer köüger als die Menschen, **hätten** die Menschen ein großes Problem.
+  - **Wäre** der Computer klüger als die Menschen, **hätten** die Menschen ein großes Problem.
 
 ###### an ihrer Stelle/an seiner Stelle /...
 
@@ -1490,3 +1490,62 @@ Form: wäre ... / hätte... + P.II
 |Vergangenheit| Li konnte gestern nicht kommen.| |
 | | Li hat gestern nicht kommen können.|Li hätte gesten nicht kommen können.|
 | | Li hatte gestern nicht kommen können.| | 
+
+## Lektion 27 Nachrichten - Klatsch - Gerüchte
+### Konjunktiv I 
+
+{:.boxit}
+第一虚拟式主要用于间接引语中，是间接引语的标注。表示说话者只是客观转述他人的话。至于内容正确，真实与否不予评判。因此第一虚拟式常用于引文或新闻报道中.
+
+#### Gegennwart und Zukunft
+
+##### Form: Verbstamm + -e + ...
+  - 当第一虚拟式与直陈式相同时， 常用第二虚拟式或带würden + Infinitiv来代替
+
+###### Vollverben
+
+![kia](../assets/img/deutschA2/L27-KonjuntivIA.png)
+
+- Er sagt: "Ich kaufe ein Auto"(direkte Rede)
+  - Er sagt, **er kaufe** ein Auto. (indirekte Rede)
+- Er sagt: "Wir kaufen ein Auto"(direkte Rede)
+  - Er sagt, **sie würden** ein Auto **kaufen**. (indirekte Rede)
+- Er fragt: "Warum nimmst du nicht Platz?"(direkte Rede)
+  - Er fragt, Warum **sie** nicht Platz **nehme**. (indirekte Rede)
+
+###### Modalverben
+
+![kia2](../assets/img/deutschA2/L27-KonjuntivIA2.png)
+
+- Der Pianist frage seine Freudin: "Willst du mich heiraten?" (direkete Rede)
+  - Der Pianist fragt seine Freundin, ob **sie** **ihn** heiraten **wolle**. (indirekte Rede)
+
+##### Sonderform: sein
+
+![kib](../assets/img/deutschA2/L27-KonjuntivIB.png)
+
+
+#### Zeitform
+
+  - 现在/将来：动词词干+第一虚拟式人称词尾（与直陈式相同用二虚替代）即：Verstamm + -e/-est/-e/-en/-et/-en
+  - 过去(过去时/现在完成时/过去完成时)：haben或sei的第一虚拟式+第二分词。即：habe/sei + P.II
+
+  |Zeitform| Indikativ | Konkunktiv I|
+  |:-----:|:-----:|:-------:|
+  |Zukunft/Gegenwart| Er kommt. | Er komme|
+  | | Er kommt morgen.|Er komme.|
+  |Vergangenheit|Er kam.| |
+  | | Er ist gekommen. | Er sei gekommen.|
+  | | Er war gekommen. | |
+  | | Er arbeitete.| |
+  | | Er hat gearbeitet. | Er habe Gearbeitet.|
+  | | Er hatte gearbeitet. | |
+
+
+### Verschiedenes
+
+  - sich von jm. scheiden lassen 离婚
+  - ein Gerücht schaffen = ein Gerücht entstehen lassen
+  - über jn./etwas klatschen 背后议论
+  - ein Verhältnis mit jm. haben
+  - 

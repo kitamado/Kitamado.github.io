@@ -13,7 +13,7 @@ title: Das Geschlecht der Nomen
 ## Proportion
 德语阳阴性名词比例
 
-| der | das | die |
+| der | die | das |
 |:----:|:-----:|:-----:|
 |34%|46%|20%|
 

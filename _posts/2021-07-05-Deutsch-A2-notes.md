@@ -1541,6 +1541,19 @@ Form: wäre ... / hätte... + P.II
   | | Er hat gearbeitet. | Er habe Gearbeitet.|
   | | Er hatte gearbeitet. | |
 
+### Vergangenheit
+
+From: **habe .../sei... + P.II**
+
+  - Er erzählt mir: "Am Montag habe ich Tennis gespielt. Ich habe verloren." (direkt Rede)
+    - Er erzählt mir, am Montag **habe** **er** Tennis gespielt. **Er** **habe** verloren. (indirekte Rede)
+
+  - In der Zeitung steht: "Am Montagabend ist ein Bus ins Wasser gestürzt." (direkt Rede)
+    - In der Zeitung steht, am Montagabend **sei** ein Bus ins Wasser **gestürzt**." (indirekt Rede) 
+
+  - Er erzählt mir: "Am Dienstag wolllte ich Sie anrufen." (direkt Rede)
+    - Er erzählt mir, am Dienstag **habe er mich  anrufen wollen**." (indirekt Rede)
+
 
 ### Verschiedenes
 
@@ -1548,4 +1561,4 @@ Form: wäre ... / hätte... + P.II
   - ein Gerücht schaffen = ein Gerücht entstehen lassen
   - über jn./etwas klatschen 背后议论
   - ein Verhältnis mit jm. haben
-  - 
+ 
